@@ -21,3 +21,8 @@ This project implements a randomized number pad UI using SwiftUI, ideal for use 
 
 
 © 2025 Arun Bansal. All rights reserved.
+
+
+
+
+![simulator_screenshot_F68EFD19-FA90-40A7-8954-702B98720FE3](https://github.com/user-attachments/assets/8364a8c9-1161-461b-a61c-456b0cf16512)
